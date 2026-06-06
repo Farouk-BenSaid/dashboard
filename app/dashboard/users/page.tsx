@@ -1,9 +1,9 @@
-import LoginPage from "./login/Login";
+import Main from "./Main";
 
 const page = () => {
   return (
     <>
-      <LoginPage />
+      <Main />
     </>
   );
 };
